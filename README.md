@@ -9,4 +9,7 @@
 
 - git checkout 
 -b name of branch 
-- why its not pushing 
+- why its not pushing
+
+### When pushing to a new branch
+- write git push origin branch_name 
