@@ -7,4 +7,6 @@
 
 ### Step-2 Created a new branch
 
-- git checkout -b name of branch 
+- git checkout 
+-b name of branch 
+- why its not pushing 
